@@ -1,17 +1,17 @@
 # 分级许可 / License（用于自有站 `/license` 页）
 
 > 用法：整页贴到自有站 `/license`，并在每篇发布、每个商品详情页底部引用该页 URL。
-> 待填：`<系列名>`、`<公司全称>`、`<联系邮箱>`、`<首发日>`。
+> 已填（2026-11-13，权利人本人提供）：系列名 **ZOABOTA** ／ 权利人 **张传加**（自然人）／ 邮箱 **cnzcj83@163.com** ／ 首发日 **2026-11-13**。
 > 定稿前请读文末「三条不要」。
 
 ---
 
 ## 中文正文
 
-**© 2026 <系列名> ／ <公司全称>. 保留所有权利。**
+**© 2026 ZOABOTA（动植物园双馆 IP）／ 张传加 Zhang Chuanjia. 保留所有权利。**
 
-本页面下的形象、插画、图文与角色设定（以下合称"本作品"）为 <公司全称> 原创美术作品。
-本作品的首次公开发表日为 **<首发日>**，创作者已对全部源文件做内容指纹固定并公开留证。
+本页面下的形象、插画、图文与角色设定（以下合称"本作品"）为 **张传加** 原创美术作品。
+本作品的首次公开发表日为 **2026 年 11 月 13 日（北京时间）**，创作者已对全部源文件做内容指纹固定并公开留证。
 
 本作品采用**分级许可**：下列范围之外的任何使用，均需事先取得书面许可。
 
@@ -22,7 +22,7 @@
 - 教学与科普场景中**非盈利**的课件引用（单篇不超过 3 张，须署名并回链）
 
 **A 级的两项强制条件**：
-1. **署名并回链**：标注「<系列名> © <公司全称>」并附本页或原图链接；
+1. **署名并回链**：标注「**ZOABOTA © 张传加**」并附本页或原图链接；
 2. **不得改动识别核心**：不得摘除或替换角色的**物种编号牌**与**种子形胸章**（详见 D 级）。
 
 ### ⛔ B 级｜禁止，任何情形下都不授予
@@ -32,7 +32,7 @@
 3. **摘除识别核心后的使用**：去掉编号牌或种子胸章后单独使用角色形象。
    > 这一条是刻意的：这两个元素是本作品的来源识别符。摘除后的使用会使公众无法追溯到原作者，因此无论是否商用一律禁止。
 4. 改写成**写实风、3D 写实渲染**或以任何方式扭曲本作品的既定风格；
-5. 暗示与本作品、<系列名> 或任何园区／机构存在授权、联名或官方关系（包括使用"官方""同款""正版授权""inspired by"等字样）。
+5. 暗示与本作品、ZOABOTA 或任何园区／机构存在授权、联名或官方关系（包括使用"官方""同款""正版授权""inspired by"等字样）。
 
 ### 🤖 C 级｜AI 相关，单列
 
@@ -52,13 +52,13 @@
 
 以下情形请联系我们取得书面授权：商品化生产与销售、平台店铺视觉、园区／博物馆／自然教育机构联名与反向授权、内容改编、影视与动画、批量印刷。
 - **委托设计特别约定**：由我方承担的委托设计，其**著作权归属以合同约定优先**；无约定时依法归受托方（我方）。合同未明确转让的，委托方仅取得约定范围内的使用权，**不得推定取得著作权**。
-- 联系：<联系邮箱>
+- 联系：**cnzcj83@163.com**（书面许可请求请注明：使用主体、使用范围、地域、期限、拟用商品形态）
 
 ---
 
 ## English summary (for cross-border clarity)
 
-All characters and artwork are original works of <公司全称>, first published on **<首发日>**.
+All characters and artwork are original works of **Zhang Chuanjia (张传加)**, first published on **2026-11-13** (UTC+8).
 Personal, non-commercial fan work is allowed **with attribution and back-link**, provided the character's **species ID tag and seed badge are not removed or altered**.
 Commercial use of any kind, **any attempt to register these works or parts of them as a trademark, design right, domain or account handle**, style-rewrite into realism, and **use for AI training or as image-to-image reference** are prohibited absent written licence.
 Suggestions of official affiliation, endorsement or "same style as" are prohibited.
